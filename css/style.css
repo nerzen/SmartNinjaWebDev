@@ -1,0 +1,42 @@
+.topmargin{
+
+    position:relative;
+    top:100px;
+
+}
+.top_margin{
+
+    position:relative;
+    top:200px;
+
+}
+.btn_margin{
+
+    position:relative;
+    top:10px;
+    width:100%;
+}
+.cldr_leftmargin{
+
+    position:relative;
+    left:100px;
+
+}
+.margin_more{
+
+    position:relative;
+    top:300px;
+}
+.footer_nav{
+
+    position: relative;
+    top:480px;
+
+
+}
+.figure{
+
+    position:relative;
+    top:100px;
+
+}
